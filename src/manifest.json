@@ -19,6 +19,8 @@
 	},
 	
 	"icons":{
-		"32": "darthcraft.ico"
+		"32": "darthcraft.ico",
+		"48": "darthcraft48.png",
+		"128": "darthcraft128.png"
 	}
 }
